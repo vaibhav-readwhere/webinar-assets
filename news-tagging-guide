@@ -1,0 +1,301 @@
+<!doctype html>
+<html lang="en" class="h-100">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <title>NTG -  Demo</title>
+    <!-- Favicons -->
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Google+Sans:400,500|Material+Icons"/>
+    <meta name="theme-color" content="#000">
+    <style>
+      body{
+        background: #000;
+        font-family: "Google Sans",sans-serif;
+        margin:0 20px;
+      }
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+      img{
+        width: 100%;
+      }
+      h1{
+        color: #fff;
+        line-height: 1em;
+        width: calc(100% - 50px);
+        padding: 0px;
+        float: left;
+        margin: -40px 100px 20px 0;
+      }
+      p{
+        color:#888;
+        font-weight: 400;
+      }
+      .social_icons{
+        width: 100%;
+        float: left;
+        padding: 0px;
+        margin: 0px;
+      }
+      .social_icons li{
+        float: left;
+        list-style: none;
+        width: 10%;
+        margin: 1% 10% 2% 0%;
+      }
+      .social_icons li a{
+        float: left;
+      }
+      .social_icons li a img{
+        float: left;
+        width: 100%;
+      }
+      footer{
+        color:#fff;
+        padding-bottom: 20px;
+      }
+      #subsribe{
+        width: 40px;
+        height: 40px;
+        float: right;
+        margin: 0px 0 6px 0;
+        text-align: center;
+        background: #ffcc00;
+        color: #000;
+        text-decoration: none;
+        padding: 0px;
+        border-radius: 100px;
+        font-weight: bold;
+      }
+      #subsribe img{
+        width: 80%;
+        display: inline-block;
+        margin: -2px 0 0 0;
+      }
+      .swal-button{
+        background-color: #4CAF50 !important;
+      }
+      #addtohome{
+        width: 60%;
+        float: left;
+        margin: 2% 20% 6%;
+        background: #f44336;
+        color: #fff;
+        text-align: center;
+        text-decoration: none;
+        padding: 8px 0;
+        border-radius: 2px;
+      }
+    </style>
+    <script>
+       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+       })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+       ga('create', 'UA-94118912-1', 'auto','myTracker');
+       ga('myTracker.send', 'pageview');
+    </script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+  </head>
+  <body class="d-flex flex-column h-100">
+    <!-- Begin page content -->
+<main role="main" class="flex-shrink-0">
+  <div class="container">
+
+    <div style="width:100%;float: left;">
+      <a href="javascript:;" id="subsribe">
+        <img src="https://ads.rwadx.com/ntg-demo/notification_bell.svg">
+      </a>
+    </div>
+
+    <h1 class="mt-5"> Here's everything Apple just announced </h1>
+    <p class="lead">
+      This is a post about Apple's Sept. 15 product event, where the company announced a slew of new gadgets and services, including a new Apple Watch and two new iPad models.
+    </p>
+
+    <ul class="social_icons">
+      <li>
+        <a id="facebook" target="_blank" href="https://www.facebook.com/">
+          <img src="https://ads.rwadx.com/ntg-demo/facebook-icon.svg">
+        </a>
+      </li>
+
+      <li>
+        <a id="twitter" target="_blank" href="https://www.twitter.com/">
+          <img src="https://ads.rwadx.com/ntg-demo/twitter.svg">
+        </a>
+      </li>
+
+      <li>
+        <a id="whatsapp" href="whatsapp://send?text=https://ads.rwadx.com/ntg-demo/index.html">
+          <img src="https://ads.rwadx.com/ntg-demo/whatsapp.svg">
+        </a>
+      </li>
+    </ul>
+
+    <img src="hero_image__dcnw5e2nomye_small_2x.jpg">
+
+    <a id="addtohome" href="javascript:;">
+      Add to Home Screen
+    </a>
+
+    <p class="lead">
+      Apple on Tuesday announced a bunch of new hardware and some software. Here are the biggest announcements. <br> <br>
+      It also said that iOS 14, its new iPhone software, will launch on Wednesday with lots of new features such as widgets, a new way to organize your home screen, security enhancements and more. <br> <br>
+      Of note: Apple did not announce new iPhones. Those are expected at a future launch, perhaps next month. Check out everything Apple announced below. <br>
+      
+      <img style="display:inline-block;padding:30px 0 0 0;" src="ipados__fjobvhx88day_large_2x.jpg">
+
+      <b style="color:#fff;padding:20px 0 0 0;display:inline-block;"> Spotify calls out Apple's 'dominant position,' 'unfair practices' </b> <br> <br>
+      Spotify reiterated its calls against Apple's alleged "unfair" and anti-competitive practices.  <br> <br>
+
+      "Once again, Apple is using its dominant position and unfair practices to disadvantage competitors and deprive consumers by favoring its own services," a Spotify spokesperson told CNBC. "We call on competition authorities to act urgently to restrict Apple's anti-competitive behavior, which if left unchecked, will cause irreparable harm to the developer community and threaten our collective freedoms to listen, learn, create, and connect." <br> <br>
+
+      Spotify has been outspoken on Apple's App Store rules, which require it pay a 30% revenue cut earned through subscriptions that are made through the app on Apple devices. The streaming service also filed a complaint with the European Commission's antitrust regulators in March 2019 arguing that Apple Music has an "unfair advantage" over rivals. <br> <br>
+
+      Apple's new Apple One bundle, packages its Spotify rival, Apple Music, with other services like Apple News+, Apple Arcade and iCloud storage. -- Jessica Bursztynsky <br> <br>
+
+      <b style="color:#fff;padding:20px 0 0 0;display:inline-block;"> Peloton CEO reacts to Apple Fitness+ unveiling </b> <br> <br>
+      Peloton CEO John Foley happened to be speaking at the company's first-ever investor meeting just as Apple announced its new streaming exercise service, Fitness+. <br> <br>
+
+      Foley said Apple's move into the space is a "legitimization" of streaming fitness content. <br> <br>
+
+      "The biggest thing I will say is it's quite a legitimization of fitness content, to the extent the biggest company in the word, a $2 trillion company, is coming in and saying fitness content matters," Foley said. "It's meaningful enough for Apple." <br> <br>
+
+      But Foley added that Peloton has an edge over Apple because the tech giant doesn't make exercise equipment, like Peloton's connected spinning bikes and treadmills, which he said was his company's "special sauce." -- Lauren Thomas <br> <br>
+
+      <b style="color:#fff;padding:20px 0 0 0;display:inline-block;"> Apple announces iOS 14 iPhone update will be released on Wednesday </b> <br> <br>
+      There weren't any iPhones announced on Tuesday, but all of Apple's new products require Apple's newest software to run. Apple CEO Tim Cook said that iOS 14, the latest operating system for iPhones, will be released on Wednesday, ahead of an expected iPhone launch next month. — Kif Leswing <br> <br>
+
+      <b style="color:#fff;padding:20px 0 0 0;display:inline-block;"> Apple updates midrange iPad Air with edge-to-edge screen, fingerprint sensor, priced at $599 </b> <br> <br>
+
+      It will also include a "next generation" Touch ID fingerprint sensor inside the tablet's power button.  Apple says it will be equipped with an A14 processor that is 40% faster than its predecessor — one of the first times that Apple's most powerful chip lands in an iPad before a new iPhone. It charges with a USB-C connector, not Apple's proprietary Lightning charger. It is compatible with Apple's 2nd-generation Pencil and Magic Keyboard stand. <br> <br>
+
+      Apple has seen boosted iPad sales amid the coronavirus pandemic as users look for computers for working and entertainment from home. — Kif Leswing <br> <br>
+
+    </p>
+  </div>
+</main>
+
+<footer class="footer mt-auto py-3">
+  <div class="container">
+    <span class="text-muted"> Event </span>
+  </div>
+</footer>
+
+<script type="text/javascript">
+  
+  // Scroll Depth Events
+  var trackEvent=0;
+  window.onscroll = function(ev) {
+    if ((window.innerHeight + window.scrollY) >=(( document.body.offsetHeight)/100)*50 && trackEvent==0) {
+
+      ga('myTracker.send', {
+          hitType: 'event',
+          eventCategory: 'NTG article milestone',
+          eventAction:'50%',
+          eventLabel: 'https://ads.rwadx.com/ntg-demo/index.html',
+          eventValue: 50,
+          nonInteraction: true
+      });
+      console.log("reached to 50%");
+      trackEvent=1;
+    }
+    if ((window.innerHeight + window.scrollY) >=(( document.body.offsetHeight)/100)*75 && trackEvent==1) {
+      ga('myTracker.send', {
+          hitType: 'event',
+          eventCategory: 'NTG article milestone',
+          eventAction:'75%',
+          eventLabel: 'https://ads.rwadx.com/ntg-demo/index.html',
+          eventValue: 75,
+          nonInteraction: true
+      });
+      console.log("reached to 75%");
+      trackEvent=2;
+    }
+  };
+
+  // Social Sharing  Events
+
+  document.getElementById("facebook").onclick=function(){
+    ga('myTracker.send', 'event', {
+        eventCategory: 'NTG social',
+        eventAction: 'social share',
+        eventLabel: 'facebook',
+        nonInteraction: false
+    });
+    console.log("facebook click");
+  }
+
+  document.getElementById("twitter").onclick=function(){
+    ga('myTracker.send', 'event', {
+        eventCategory: 'NTG social',
+        eventAction: 'social share',
+        eventLabel: 'Twitter',
+        nonInteraction: false
+    });
+    console.log("Twitter click");
+  }
+
+  document.getElementById("whatsapp").onclick=function(){
+    ga('myTracker.send', 'event', {
+        eventCategory: 'NTG social',
+        eventAction: 'social share',
+        eventLabel: 'Whatsapp',
+        nonInteraction: false
+    });
+    console.log("Whatsapp click");
+  }
+
+
+  // Notifications
+  document.getElementById("subsribe").onclick=function(){
+    ga('myTracker.send', 'event', {
+        eventCategory: 'NTG push notification',
+        eventAction: 'click',
+        eventLabel: 'https://ads.rwadx.com/ntg-demo/index.html',
+        nonInteraction: false
+    });
+    console.log("Subscribe click");
+    swal({
+      title: "Thanks for subscribing us.",
+      text: "We will stick to important stuff.",
+      icon: "success",
+      button: "Got it",
+    });
+  }
+
+
+  // Add to home screen events
+  document.getElementById("addtohome").onclick=function(){
+    ga('myTracker.send', 'event', {
+        eventCategory: 'NTG Add to HomeScreen',
+        eventAction: 'add to homescreen',
+        eventLabel: 'https://ads.rwadx.com/ntg-demo/index.html',
+        nonInteraction: false
+    });
+    console.log("Addtohome click");
+    swal({
+      title: "Add to Home Screen",
+      text: "",
+      icon: "success",
+      button: "OK",
+    });
+  }
+
+</script>
+
+</body>
+</html>
